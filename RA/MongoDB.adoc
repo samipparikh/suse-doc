@@ -4,7 +4,8 @@ www.suse.com
 
 [[Frame1]]
 
-Title Mongo Rancher
+Title MongoDB with SUSE Rancher 
+A Technical Quick Look
 
 image:SUSE_Reference_Architecture_12_16_html_76f3eee6740436ca.gif[image]
 image:SUSE_Reference_Architecture_12_16_html_8f9dfc182504547b.gif[image]
