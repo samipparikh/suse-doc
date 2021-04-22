@@ -4,7 +4,7 @@ www.suse.com
 
 [[Frame1]]
 
-Title (e.g., White Paper)
+Title Mongo Rancher
 
 image:SUSE_Reference_Architecture_12_16_html_76f3eee6740436ca.gif[image]
 image:SUSE_Reference_Architecture_12_16_html_8f9dfc182504547b.gif[image]
@@ -128,10 +128,10 @@ body copy body copy body copy body copy body copy body copy body copy
 body copy body copy body copy body copy body copy body copy body copy
 body copy body copy body copy body copy body copy.
 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
 
 [[heading-1]]
 Heading
@@ -162,12 +162,12 @@ Table of Contents Creation
 
 In order to insert a table of contents (using Microsoft Word 2010):
 
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
+1.
+2.
+3.
+4.
+5.
+6.
 
  +
  +
@@ -223,8 +223,8 @@ Requirements
 Function requirements should outline the high level feature(s) and
 benefits of the solution,
 
-* 
-* 
+*
+*
 
 Diagrams or tables may be included in the description to demonstrate the
 customer behavior or interaction with surrounding solutions.
@@ -240,8 +240,8 @@ Architectural overview
 An outline should be provided of the solution and the components
 required to successfully architect the solution
 
-* 
-* 
+*
+*
 
 _*High level diagram / table*_
 
@@ -308,9 +308,9 @@ Provide brief descriptions of the components that make up a solution and
 this could include the individual components of a solution such as a
 product breakdown
 
-* 
-* 
-* 
+*
+*
+*
 
 Or functional components that make up the solution such as Nova,
 Keystone, Swift, etc in an OpenStack solution
@@ -363,12 +363,12 @@ http://www.suse.com/documentation[www.suse.com/documentation]
 
 The following typographical conventions are used in this manual:
 
-* 
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*
+*
 
 *Deployment overview/outline*
 
